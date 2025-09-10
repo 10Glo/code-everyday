@@ -66,27 +66,6 @@ code-everyday/
 └── README.md
 ```
 
----
-
-## 🏗️ Project Structure
-
-```
-{project_name}/
-├── src/
-│   ├── components/
-│   ├── utils/
-│   └── index.js
-├── docs/
-├── tests/
-├── examples/
-├── .github/
-│   ├── workflows/
-│   └── ISSUE_TEMPLATE/
-├── package.json
-├── README.md
-└── LICENSE
-```
-
 Each folder contains exercises and solutions organized by day.  
 Example: `day_01.py` → Solution of the first day in Python.
 
