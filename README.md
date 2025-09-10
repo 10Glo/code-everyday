@@ -68,16 +68,6 @@ code-everyday/
 
 ---
 
-## 📚 Documentation
-
-- [Installation Guide](docs/installation.md)
-- [User Guide](docs/user-guide.md)
-- [API Reference](docs/api.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [FAQ](docs/faq.md)
-
----
-
 ## 🏗️ Project Structure
 
 ```
