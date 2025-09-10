@@ -138,11 +138,7 @@ You are free to use, modify, and share the code — just keep the license notice
 
 ---
 
-<div align="center">
-
-Made with ❤️ by <a href="https://github.com/10Glo">@10Glo</a>
-
-💡 *“Consistency beats intensity. One exercise a day keeps stagnation away.”*
+<div>
 
 ⚠️ **Note for learners**: To truly sharpen your problem-solving skills, try solving each exercise **without relying on AI at first**.  
 Use your own logic, experiment, and refine your approach. AI can be a great tool — but use it **only at the end** to:
@@ -151,5 +147,10 @@ Use your own logic, experiment, and refine your approach. AI can be a great tool
 - ✅ Learn new techniques after attempting the problem yourself
 
 This way, you’ll **upgrade your thinking process** while still benefiting from AI as a final mentor.
+
+<p align="center">Made with ❤️ by <a href="https://github.com/10Glo">@10Glo</a>
+
+💡 *“Consistency beats intensity. One exercise a day keeps stagnation away.”*
+</p>
 
 </div>
