@@ -149,8 +149,8 @@ Use your own logic, experiment, and refine your approach. AI can be a great tool
 This way, you’ll **upgrade your thinking process** while still benefiting from AI as a final mentor.
 
 <p align="center">Made with ❤️ by <a href="https://github.com/10Glo">@10Glo</a>
-
-💡 *“Consistency beats intensity. One exercise a day keeps stagnation away.”*
 </p>
-
+<p align="center">
+*“Consistency beats intensity. One exercise a day keeps stagnation away.”*
+</p>
 </div>
