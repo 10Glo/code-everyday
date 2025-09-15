@@ -71,22 +71,58 @@ Example: `day_01.py` → Solution of the first day in Python.
 
 ---
 
-## 📅 Progress Log
+## 🏆 Problem Levels
 
-| Day   | Language  | Exercise                     | URL                       |
-|-------|-----------|------------------------------|---------------------------|
-| 01    | Python    | Basic string reversal        | [View](python/day_01.py)  |
-| 01    | Java      | Fibonacci sequence           | [View](java/day_02.java)  |
-| 01    | SQL       | Simple JOIN query            | [View](sql/day_03.sql)    |
-| 01    | SQL       | Simple JOIN query            | [View](sql/day_03.sql)    |
-| ----- | --------- | ---------------------------- | ------------------------- |
-| 01    | SQL       | Simple JOIN query            | [View](sql/day_03.sql)    |
-| 01    | SQL       | Simple JOIN query            | [View](sql/day_03.sql)    |
-| 01    | SQL       | Simple JOIN query            | [View](sql/day_03.sql)    |
-| 01    | SQL       | Simple JOIN query            | [View](sql/day_03.sql)    |
-| ...   | ...       | ...                          | ...                       |
+To make progression clear, each exercise is tagged with a **difficulty level**:
+
+- 🟢 **Basic** → Entry-level problems (conditions, loops, simple input/output)
+- 🟡 **Intermediate** → More logic involved (data structures, algorithms, multiple steps)
+- 🔴 **Advanced** → Complex use of algorithms, optimization, real-world use cases
+- ⚫ **Expert (Hard)** → Challenging problems requiring deep algorithmic thinking or system design
+
+This way, learners can start small and grow step by step 🚀
 
 ---
+
+## 📊 Problem Categories
+
+Exercises are also grouped into categories for better navigation:
+
+- 🔢 **Numbers** → Math-related problems (primes, divisibility, arithmetic rules)
+- 📜 **Classic Algorithms** → Sorting, searching, recursion, dynamic programming
+- 🌐 **Graph** → Traversals, shortest path, connected components
+- 📦 **Data Structures** → Stacks, queues, linked lists, trees, hashmaps
+- ✍️ **Text** → Strings, regex, parsing, text processing
+- 🌍 **Networking** → Socket programming, requests, APIs
+- 🏷️ **Classes** → OOP concepts (inheritance, polymorphism, encapsulation)
+- 🔄 **Threading** → Concurrency, parallelism, synchronization
+- 🌐 **Web** → Frontend/backend mini challenges
+- 📂 **Files** → File input/output, serialization, logs
+- 🗄️ **Databases** → SQL queries, normalization, joins
+- 🎨 **Graphics and Multimedia** → Drawing, images, UI-related problems
+- 🔒 **Security** → Hashing, encryption, authentication concepts
+
+This categorization helps anyone jump directly to the type of challenge they want to practice 💡
+
+---
+
+## 📅 Progress Log
+
+| Day   | Language   | Type                     | Problem                  | URL             |
+|-------|------------|--------------------------|--------------------------|-----------------|
+| 01    | Python     | Basic string reversal    | Basic string reversal    | [View](python/day_01.py)     |
+| 01    | Java       | Fibonacci sequence       | Fibonacci sequence       | [View](java/day_02.java)     |
+| 01    | Dart       | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| 01    | Javascript | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| ----- | ---------  | ------------------------ | ------------------------ | --------------- |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
+| ...   | ...        | ...                      | ...                      | ...             |
+
 
 ## 🚀 How to Use
 
