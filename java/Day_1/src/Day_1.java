@@ -47,9 +47,9 @@ public class Day_1 {
             secondNumber = scanner.nextInt();
         } catch (Exception exception) {
             System.out.println("\n⚠️ Erreur : Vous devez entrer un nombre valide !");
-        } finally {
+
             scanner.close();
-            System.out.println("Fin du programme ✅");
+            System.out.println("\nFin du programme ✅");
             System.exit(0);
         }
 
@@ -70,11 +70,12 @@ public class Day_1 {
                 "*   Paire de zéro ou Un zéro: Produit Neutre");
 
 
-        // --- Résumé des informations ---
+        // --- Résutats ---
         System.out.println("--------------");
         System.out.println(" 📋 Résutats");
         System.out.println("--------------");
 
+        // --- Régles ---
         if (firstNumber > 0 && secondNumber > 0)
             System.out.println("➡️  Le Résultat est 'POSITIF'");
         else if (firstNumber < 0 && secondNumber < 0)

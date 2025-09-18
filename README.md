@@ -108,20 +108,20 @@ This categorization helps anyone jump directly to the type of challenge they wan
 
 ## 📅 Progress Log
 
-| Day   | Language   | Type                     | Problem                  | URL             |
-|-------|------------|--------------------------|--------------------------|-----------------|
-| 01    | Python     | Basic string reversal    | Basic string reversal    | [View](python/day_01.py)     |
-| 01    | Java       | Fibonacci sequence       | Fibonacci sequence       | [View](java/day_02.java)     |
-| 01    | Dart       | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| 01    | Javascript | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| ----- | ---------  | ------------------------ | ------------------------ | --------------- |
-| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | [View](sql/day_03.sql)     |
-| ...   | ...        | ...                      | ...                      | ...             |
+| Day   | Language   | Level                    | Category                 | Problem                   | URL             |
+|-------|------------|--------------------------|--------------------------|---------------------------|-----------------|
+| 01    | Java       | Basic                    | Numbers                  | Comparaison signe produit | [View](python/day_01.py)     |
+| 01    | Java       | Basic                    | Numbers                  | Comparaison signe produit | [View](java/day_02.java)     |
+| 01    | Dart       | Basic                    | Numbers                  | Comparaison signe produit | [View](sql/day_03.sql)     |
+| 01    | Javascript | Basic                    | Numbers                  | Comparaison signe produit | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | Simple JOIN query         | [View](sql/day_03.sql)     |
+| ----- | ---------  | ------------------------ | ------------------------ | ------------------------  | --------------- |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | Simple JOIN query         | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | Simple JOIN query         | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | Simple JOIN query         | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | Simple JOIN query         | [View](sql/day_03.sql)     |
+| 01    | SQL        | Simple JOIN query        | Simple JOIN query        | Simple JOIN query         | [View](sql/day_03.sql)     |
+| ...   | ...        | ...                      | ...                      | ...                       | ...             |
 
 
 ## 🚀 How to Use
